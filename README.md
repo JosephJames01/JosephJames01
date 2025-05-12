@@ -25,12 +25,12 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 
 **Languages I Use:**
 - Python
-- JavaScript (Node.js, React)
+- JavaScript & React
 - C/C++
 - HTML/CSS
 - MATLAB
 - Bash/Shell
-- SQL
+- Java
 
 **Frameworks & Tools:**
 - Django, Flask
@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 - Docker
 - ROS (Robot Operating System)
 - TensorFlow, PyTorch
-- Agile & Scrum boards (Jira, Trello)
+- Agile & Scrum boards (kanban)
 
 ---
 
