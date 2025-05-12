@@ -1,6 +1,6 @@
 # Hi there, I'm Joe Harding👋
 
-Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) passionate about **embedded systems**, **AI**, and building innovative technology. Here you'll find projects that blend hardware and software, as well as my explorations in web development and modern software engineering practices.
+Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) passionate about **embedded systems**, **AI**, and building innovative technology. Here you'll find projects that blend hardware and software, as well as my explorations in web development. Additionally I'm also very interested in modern software engineering practices.
 
 ---
 
