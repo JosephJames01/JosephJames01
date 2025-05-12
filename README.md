@@ -1,4 +1,4 @@
-# Hi there, I'm Joe Harding 👋
+# Hi there, I'm Joe Harding👋
 
 Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) passionate about **embedded systems**, **AI**, and building innovative technology. Here you'll find projects that blend hardware and software, as well as my explorations in web development and modern software engineering practices.
 
@@ -25,8 +25,8 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 
 **Languages I Use:**
 - Python
-- C/C++
 - JavaScript (Node.js, React)
+- C/C++
 - HTML/CSS
 - MATLAB
 - Bash/Shell
@@ -45,15 +45,18 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJames01&show_icons=true&theme=radical)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJames01&show_icons=true&theme=radical)](https://github.com/JosephJames01)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJames01&langs_count=10&theme=radical&hide=C)](https://github.com/JosephJames01)
+
 
 ---
 
-## 🌱 What I'm Working On
+## 🌱 What I'm Working On 
 
-- Building smarter embedded systems for robotics and IoT
-- Experimenting with AI-powered applications and custom models
-- Developing full-stack web apps with modern UI frameworks
+- Building smarter embedded systems for robotics and IoT such as a highly accurate wireless sprint timing system  
+- Experimenting with AI-powered applications and custom models  
+- Developing web sites with modern UI frameworks  
 - Applying Agile and Scrum principles to streamline project delivery
 
 ---
@@ -61,14 +64,6 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 ## 🤝 Let's Connect
 
 - [LinkedIn](#)  
-- [Personal Portfolio](#)  
-- [Twitter](#)
+
 
 ---
-
-> “Innovation is seeing what everybody has seen and thinking what nobody has thought.”  
-> - Dr. Albert Szent-Györgyi
-
----
-
-_Thanks for visiting! Feel free to check out my repositories and reach out if you share similar interests or want to collaborate._
