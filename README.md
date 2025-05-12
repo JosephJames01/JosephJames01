@@ -63,7 +63,7 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/joe-harding-458a23312/)  
 
 
 ---
