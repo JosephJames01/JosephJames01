@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
   - Creating new tech and pushing boundaries
 
 - **Currently Leveling Up:**  
-  - Modern web frameworks: Tailwind CSS, Django  
-  - Agile tools & best practices  
+  - Modern web/app frameworks: Tailwind CSS, React, Django
+  - PCB Design 
   - Advanced AI model building
 
 ---
@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 
 ## 🌱 What I'm Working On 
 
-- Building smarter embedded systems for robotics and IoT such as a highly accurate wireless sprint timing system  
+- Building smarter embedded systems for robotics and IoT such as a highly accurate wireless sprint timing system (V2 on the way) 
 - Experimenting with AI-powered applications and custom models  
 - Developing web sites with modern UI frameworks  
 - Applying Agile and Scrum principles to streamline project delivery
