@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJames01&show_icons=true&theme=radical&hide=C)](https://github.com/JosephJames01)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJames01&show_icons=true&theme=radical)](https://github.com/JosephJames01)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJames01&langs_count=10&theme=radical)](https://github.com/JosephJames01)
 
