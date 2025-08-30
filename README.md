@@ -1,23 +1,24 @@
 # Hi there, I'm Joe Harding👋
 
-Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) passionate about **embedded systems**, **AI**, and building innovative technology. Here you'll find projects that blend hardware and software, as well as my explorations in web development. Additionally I'm also very interested in modern software engineering practices.
+Welcome to my GitHub! I'm a Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analystics** and building innovative technology. Here you'll find a range of projects from modelling to a blend of hardware and software, as well as my explorations in web development and applicatin development. Additionally I'm also very interested in modern software engineering practices.
 
 ---
 
 ## 🚀 About Me
 
-- **Degree:** BEng Robotics Engineering (First Class)
+- **Degree:**  Msc Financial Technology(Currently), BEng Robotics Engineering (First Class)
 - **Interests:**  
   - Embedded systems & electronics  
   - Artificial Intelligence & custom AI models  
-  - Web development (front-end & back-end)  
-  - Software development methodologies (Agile, Scrum)  
+  - Application development (front-end & back-end)  
+  - Data modelling and prediction
+  - Algorithmic problems
   - Creating new tech and pushing boundaries
 
 - **Currently Leveling Up:**  
-  - Modern web/app frameworks: Tailwind CSS, React Native, Django
-  - PCB Design 
-  - Advanced AI model building
+  - Modern web/app frameworks: React Native
+  - Advanced AI and machine learning
+  - Algorithmic data sorting and analysis prioriting space + time complexity
 
 ---
 
@@ -33,12 +34,11 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 - Java
 
 **Frameworks & Tools:**
-- Django, Flask
-- Tailwind CSS
+- CSS/ Tailwind
 - Git & GitHub
 - Docker
 - ROS (Robot Operating System)
-- TensorFlow, PyTorch
+- TensorFlow, PyTorch, Scikit 
 - Agile & Scrum boards (kanban)
 - React Native
 
@@ -58,8 +58,9 @@ Welcome to my GitHub! I'm a Robotics Engineering graduate (First Class Honours) 
 ## 🌱 What I'm Working On 
 
 - Building smarter embedded systems for robotics and IoT such as a highly accurate wireless sprint timing system (V2 on the way)
-- Building modern apps with React
-- Experimenting with AI-powered applications and custom models  
+- Building apps with React
+- Experimenting with AI-powered applications and custom models
+- Modelling and predicting financial data
 - Developing web sites with modern UI frameworks  
 - Applying Agile and Scrum principles to streamline project delivery
 
