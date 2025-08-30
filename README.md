@@ -8,10 +8,10 @@ Welcome to my GitHub! I'm a Financial Technology student at Univsersity of Exete
 
 - **Degree:**  Msc Financial Technology(Currently), BEng Robotics Engineering (First Class)
 - **Interests:**  
-  - Embedded systems & electronics  
   - Artificial Intelligence & custom AI models  
   - Application development (front-end & back-end)  
   - Data modelling and prediction
+  - Embedded systems & electronics  
   - Algorithmic problems
   - Creating new tech and pushing boundaries
 
