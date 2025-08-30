@@ -1,6 +1,6 @@
 # Hi there, I'm Joe Harding👋
 
-Welcome to my GitHub! I'm a Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analystics** and building innovative technology. Here you'll find a range of projects from modelling to a blend of hardware and software, as well as my explorations in web development and application development. Additionally I'm also very interested in modern software engineering practices.
+Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analystics** and building innovative technology. Here you'll find a range of projects from modelling to a blend of hardware and software, as well as my explorations in web development and application development. Additionally I'm also very interested in modern software engineering practices.
 
 ---
 
