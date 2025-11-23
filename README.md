@@ -15,10 +15,10 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
   - Creating new tech and pushing boundaries
 
 - **Currently Leveling Up:**  
-  - Modern web/app frameworks: React Native
-  - Advanced AI and machine learning, Data Science
+  - Advanced AI and advanced machine learning, Data Science
   - Econometrics
-  - DSA
+  - DSA - efficient algorithms
+  - 
     
 
 ---
@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 - Agile & Scrum boards (kanban)
 - React Native
 - Pandas/numPy
-- 
+  
 
 ---
 
