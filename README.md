@@ -2,6 +2,19 @@
 
 Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analytics**, **Data Structures And Algorithms**, and building innovative technology. Here you'll find a range of projects from modelling to a blend of hardware and software, as well as my projects in web development and application development. Additionally I'm also very interested in modern software engineering practices.
 
+**Main Machine Learning Projects**
+
+  https://github.com/JosephJames01/ai-classification  
+  
+**Main Engineering Projects**
+
+  https://github.com/JosephJames01/SprintTiming
+  https://github.com/JosephJames01/linefollow_detectionsys
+  
+**Portfolio Website**
+
+  https://github.com/JosephJames01/portfolio
+  
 ---
 
 ## 🚀 About Me
