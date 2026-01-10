@@ -4,16 +4,17 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 
 **Main Machine Learning Projects**
 
-  https://github.com/JosephJames01/ai-classification  
-  
+  [ai-classification](https://github.com/JosephJames01/ai-classification)
+
 **Main Engineering Projects**
 
-  https://github.com/JosephJames01/SprintTiming
-  https://github.com/JosephJames01/linefollow_detectionsys
-  
+  [SprintTiming](https://github.com/JosephJames01/SprintTiming)  
+  [linefollow_detectionsys](https://github.com/JosephJames01/linefollow_detectionsys)
+
 **Portfolio Website**
 
-  https://github.com/JosephJames01/portfolio
+  [portfolio](https://github.com/JosephJames01/portfolio)
+
   
 ---
 
