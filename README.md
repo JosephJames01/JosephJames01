@@ -8,12 +8,12 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 
 **Main Engineering Projects**
 
-  [SprintTiming](https://github.com/JosephJames01/SprintTiming)  
-  [linefollow_detectionsys](https://github.com/JosephJames01/linefollow_detectionsys)
+  [Ultra-low-latency athletics timing sytsem ](https://github.com/JosephJames01/SprintTiming)  
+  [Line following robotic system, designed to detect and monitors inventory in a warehouse](https://github.com/JosephJames01/linefollow_detectionsys)
 
 **Portfolio Website**
 
-  [portfolio](https://github.com/JosephJames01/portfolio)
+  [Portfolio website](https://github.com/JosephJames01/portfolio)
 
   
 ---
