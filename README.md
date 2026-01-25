@@ -32,7 +32,8 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
   - Advanced AI and advanced machine learning, Data Science
   - Econometrics
   - DSA - efficient algorithms
-  - 
+  - Backend & System Design 
+ 
     
 
 ---
