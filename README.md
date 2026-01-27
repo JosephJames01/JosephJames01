@@ -1,6 +1,6 @@
 # Hi there, I'm Joe Harding👋
 
-Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analytics**, **Data Structures And Algorithms**, and building innovative technology. Here you'll find a range of projects from modelling to a blend of hardware and software, as well as my projects in web development and application development. Additionally I'm also very interested in modern software engineering practices.
+Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analytics**, **Data Structures And Algorithms**, and building innovative technology.
 
 **Main Machine Learning Projects**
 
@@ -43,19 +43,17 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 **Languages I Use:**
 - Python
 - JavaScript & React
-- C/C++
+- C++/Arduino
 - HTML/CSS
 - MATLAB
 - Bash/Shell
 - R
 
 **Frameworks & Tools:**
-- CSS/ Tailwind
 - Git & GitHub
 - Docker
 - ROS (Robot Operating System)
-- TensorFlow, PyTorch, Scikit 
-- Agile & Scrum boards (kanban)
+- Scikit Learn
 - React Native
 - Pandas/numPy
   
@@ -80,7 +78,7 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 - Building apps with React
 - Experimenting with AI-powered applications and custom models
 - Developing web sites with modern UI frameworks  
-- Applying Agile and Scrum principles to streamline project delivery
+
 
 ---
 
