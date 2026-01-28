@@ -4,7 +4,8 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 
 **Main Machine Learning Projects**
 
-  [ai-classification](https://github.com/JosephJames01/ai-classification)
+  [ai-classification](https://github.com/JosephJames01/ai-classification) 
+  
   [Credit card Fraud](https://github.com/JosephJames01/credit-card-fraud)
 
 **Main Engineering Projects**
