@@ -34,23 +34,14 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
   - Application development 
   - Data modelling and prediction
   - Algorithmic problems
-  - Creating new tech and pushing boundaries
-
-- **Currently Leveling Up:**  
-  - Advanced AI and advanced machine learning, Data Science
-  - Econometrics
-  - DSA - efficient algorithms
-  - Backend & System Design 
- 
-    
-
+  - Embedded systems
 ---
 
 ## 🛠️ Languages & Tools
 
 **Languages I Use:**
 - Python
-- JavaScript & React
+- JavaScript 
 - C++/Arduino
 - HTML/CSS
 - MATLAB
@@ -62,32 +53,16 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 - Docker
 - ROS (Robot Operating System)
 - Scikit Learn
-- React Native
+- Flask
 - Pandas/numPy
-  
-
----
-
-## 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephJames01&show_icons=true&theme=radical)](https://github.com/JosephJames01)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJames01&langs_count=10&theme=radical)](https://github.com/JosephJames01)
-
-
-
-
 ---
 
 ## 🌱 What I'm Working On 
 
 - Building smarter embedded systems for robotics and IoT such as a highly accurate wireless sprint timing system (V2 on the way)
-- Modelling and predicting with financial data
-- Building apps with React
+- Modelling and predicting 
+- Building and deploying applications
 - Experimenting with AI-powered applications and custom models
-- Developing web sites with modern UI frameworks  
-
-
 ---
 
 ## 🤝 Let's Connect
