@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of 
 
 **Econometrics**
 
-[Savings prediction and explanation](https://github.com/JosephJames01/Econometrics-FE)
+[Savings prediction and exploration](https://github.com/JosephJames01/Econometrics-FE)
 
 **Portfolio Website**
 
