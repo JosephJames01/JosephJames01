@@ -1,73 +1,74 @@
-# Hi there, I'm Joe Harding👋
+# Hi, I'm Joe Harding 👋
 
-Welcome to my GitHub! I'm an Msc Financial Technology student at Univsersity of Exeter and Robotics Engineering graduate (First Class Honours) Im passionate about **Machine learning systems**, **Application Development**, **Data Analytics**, and building innovative technology.
+**MSc Financial Technology @ University of Exeter (78%) | Research Assistant to Prof. Julian Jamison (Oxford GPI · MIT J-PAL · fmr. World Bank) | BEng Robotics Engineering — First Class Honours**
 
-**Data Projects**
+I build end-to-end data science systems — from causal inference pipelines on international RCTs to deployed ML applications. Background in robotics engineering gives me a systems-level perspective on how models live in the real world.
 
-  [Ai-Classification](https://github.com/JosephJames01/ai-classification) 
-  
-  [Credit card Fraud](https://github.com/JosephJames01/credit-card-fraud)
-
-**Main Engineering Projects**
-
-  [Ultra-low-latency athletics timing sytsem ](https://github.com/JosephJames01/SprintTiming)  
-  [Line following robotic system, designed to detect and monitors inventory in a warehouse](https://github.com/JosephJames01/linefollow_detectionsys)
-  
-
-**Econometrics**
-
-[Savings prediction and exploration](https://github.com/JosephJames01/Econometrics-FE)
-
-**Portfolio Website**
-
-
-  [Portfolio website](https://github.com/JosephJames01/portfolio)
-
-  
 ---
 
-## 🚀 About Me
+## 📌 Featured Projects
 
-- **Degree:**  Msc Financial Technology(Currently), BEng Robotics Engineering (First Class)
-- **Interests:**  
-  - Artificial Intelligence & custom AI models  
-  - Application development 
-  - Data modelling and prediction
-  - Algorithmic problems
-  - Embedded systems
+### 🔬 Research — Causal Inference (Co-authored with Prof. Julian Jamison)
+Co-authoring a causal inference paper with Prof. Julian Jamison — Oxford Global Priorities Institute, MIT J-PAL, and former World Bank Senior Economist.
+- Pre-registered 3-country RCT (N=3,124; Nigeria & India) testing whether cognitive framing shifts normative policy preferences
+- Engineered full Python data pipeline: 3 Qualtrics exports (N_raw=3,731 → 3,124), multi-source merge, IQR outlier removal, attention-check exclusion, recoding of 108 variables
+- Causal estimation: logistic & ordered logistic regression with robust SEs, covariate-adjusted balance checks (chi-square/Kruskal-Wallis) across 20 outcomes
+
 ---
 
-## 🛠️ Languages & Tools
+### 📈 Time Series Forecasting — Kaggle Competition (Top 10%)
+*[In progress — deploying June 2026]*
+End-to-end time series forecasting system targeting top 10% on a Kaggle competition leaderboard.
+- Feature engineering: Fourier transforms for seasonality decomposition, Markov Switching model for regime detection
+- Ensemble model: XGBoost/LightGBM with cross-validated hyperparameter tuning
+- Deployed via Flask + GitHub Actions for live inference
+- Full mathematical derivations in README (Fourier basis, HMM transition matrices, gradient boosting objective)
+- **Stack:** Python, pandas, statsmodels, XGBoost, LightGBM, Flask, GitHub Actions
 
-**Languages I Use:**
-- Python
-- JavaScript 
-- C++/Arduino
-- HTML/CSS
-- MATLAB
-- Bash/Shell
-- R
-
-**Frameworks & Tools:**
-- Git & GitHub
-- Docker
-- ROS (Robot Operating System)
-- Scikit Learn
-- Flask
-- Pandas/numPy
 ---
 
-## 🌱 What I'm Working On 
+### 📊 UK Household Savings — Econometric Panel Analysis
+[Econometrics-FE →](https://github.com/JosephJames01/Econometrics-FE)
+- Two-way fixed effects panel regression (N=540, n=90, T=6) with three-way interactions (income × family × gender)
+- Pre-post first-differences estimator (2016→2017) isolated £2,924 government savings incentive shock
+- Key drivers: income (β=0.734, p=0.006), prior savings (β=0.139, p<0.001) under robust HC1 clustered SEs
+- Validated model specification via nested pFtest (p=0.455); confirmed time FE joint significance (p=0.004)
+- **Stack:** R, plm, AER, sandwich (vcovHC), stargazer, ggplot2
 
-- Building smarter embedded systems for robotics and IoT such as a highly accurate wireless sprint timing system (V2 on the way)
-- Modelling and predicting 
-- Building and deploying applications
-- Experimenting with AI-powered applications and custom models
 ---
 
-## 🤝 Let's Connect
+### 🤖 Credit Card Fraud Detection — End-to-End ML System
+[credit-card-fraud →](https://github.com/JosephJames01/credit-card-fraud)
+- MLP classifier on severely imbalanced transaction data; SMOTE for minority class oversampling
+- GridSearchCV hyperparameter tuning; F1=0.77 on held-out test set
+- Deployed via Flask + Railway for real-time predictions
+- **Stack:** Python, scikit-learn, pandas, NumPy, Flask, HTML/CSS, Railway
 
-- [LinkedIn](https://www.linkedin.com/in/joe-harding-458a23312/)  
+---
+
+### ⏱️ Ultra-Low-Latency Athletics Timing System
+[SprintTiming →](https://github.com/JosephJames01/SprintTiming)
+- Hardware + software system for professional sprint timing with sub-millisecond precision
+- Wireless sensor architecture with real-time data transmission
+- **Stack:** C++, Arduino, embedded systems
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python · R · SQL · JavaScript · C++ · MATLAB · Bash  
+**ML/DS:** scikit-learn · XGBoost · LightGBM · statsmodels · pandas · NumPy · imbalanced-learn  
+**Deployment:** Flask · GitHub Actions · Docker · Railway  
+**Econometrics:** Panel regression · Causal inference · RCT design · Fixed effects · IV estimation  
+**Other:** Git/GitHub · ROS · HTML/CSS
+
+---
+
+## 📚 Currently
+
+- 🔬 Finalising co-authored causal inference paper with Prof. Jamison
+- 
+
 
 
 ---
