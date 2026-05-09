@@ -67,7 +67,25 @@ End-to-end time series forecasting system targeting top 10% on a Kaggle competit
 ## 📚 Currently
 
 - 🔬 Finalising co-authored causal inference paper with Prof. Jamison
-- 
+- 📈 Building top 10% Kaggle time series forecasting system
+- 📖 IIT Bombay Time Series Analysis course
+- 💾 SQL interview prep — window functions, CTEs, complex joins
+- 🧮 Daily LeetCode (AlgoMonster structured pathway)
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Grade | Year |
+|---|---|---|---|
+| MSc Financial Technology | University of Exeter | 78% (ongoing) | 2025–2026 |
+| BEng Robotics Engineering | Cardiff Metropolitan University | 1st Class — 79% | 2021–2024 |
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/j-j-harding/)
 
 
 
