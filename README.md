@@ -2,7 +2,7 @@
 
 **MSc Financial Technology @ University of Exeter (78%) | Research Assistant to Prof. Julian Jamison (Oxford GPI · MIT J-PAL · fmr. World Bank) | BEng Robotics Engineering — First Class Honours**
 
-I build end-to-end data science systems — from causal inference pipelines on international RCTs to deployed ML applications. Background in robotics engineering gives me a systems-level perspective on how models live in the real world.
+I build end-to-end data science systems, from causal inference pipelines on international RCTs to deployed ML applications. My background in robotics engineering gives me a systems-level perspective on how models live in the real world.
 
 ---
 
@@ -17,7 +17,7 @@ Co-authoring a causal inference paper with Prof. Julian Jamison — Oxford Globa
 ---
 
 ### 📈 Time Series Forecasting — Kaggle Competition (Top 10%)
-*[In progress — deploying June 2026]*
+*[In progress — deploying June/July 2026]*
 End-to-end time series forecasting system targeting top 10% on a Kaggle competition leaderboard.
 - Feature engineering: Fourier transforms for seasonality decomposition, Markov Switching model for regime detection
 - Ensemble model: XGBoost/LightGBM with cross-validated hyperparameter tuning
@@ -56,7 +56,7 @@ End-to-end time series forecasting system targeting top 10% on a Kaggle competit
 
 ## 🛠️ Skills
 
-**Languages:** Python · R · SQL · JavaScript · C++ · MATLAB · Bash  
+**Languages:** Python · R · SQL · JavaScript · C++ · Bash  
 **ML/DS:** scikit-learn · XGBoost · LightGBM · statsmodels · pandas · NumPy · imbalanced-learn  
 **Deployment:** Flask · GitHub Actions · Docker · Railway  
 **Econometrics:** Panel regression · Causal inference · RCT design · Fixed effects · IV estimation  
