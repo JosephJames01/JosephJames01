@@ -16,17 +16,6 @@ Co-authoring a causal inference paper with Prof. Julian Jamison — Oxford Globa
 
 ---
 
-### 📈 Time Series Forecasting — Kaggle Competition (Top 10%)
-*[In progress — deploying June/July 2026]*
-End-to-end time series forecasting system targeting top 10% on a Kaggle competition leaderboard.
-- Feature engineering: Fourier transforms for seasonality decomposition, Markov Switching model for regime detection
-- Ensemble model: XGBoost/LightGBM with cross-validated hyperparameter tuning
-- Deployed via Flask + GitHub Actions for live inference
-- Full mathematical derivations in README (Fourier basis, HMM transition matrices, gradient boosting objective)
-- **Stack:** Python, pandas, statsmodels, XGBoost, LightGBM, Flask, GitHub Actions
-
----
-
 ### 📊 UK Household Savings — Econometric Panel Analysis
 [Econometrics-FE →](https://github.com/JosephJames01/Econometrics-FE)
 - Two-way fixed effects panel regression (N=540, n=90, T=6) with three-way interactions (income × family × gender)
